@@ -1,2 +1,26 @@
-# Marketing-Campaigns-Analysis
-Analyzed a marketing A/B testing dataset to compare conversion rates between Ad and PSA groups. Conducted an independent t-test, created 4 visualizations (bar chart, histogram, countplot, heatmap) using Python and Seaborn, and uncovered actionable insights on ad exposure and user engagement.
+# Overview
+This project analyzes a marketing A/B testing dataset to compare conversion rates between Ad and PSA groups. Using Python, I performed statistical analysis, created visualizations, and uncovered actionable insights to understand the impact of ad exposure on user behavior.
+
+# Tech Stack
+Python: pandas, numpy, scipy
+
+Visualization: matplotlib, seaborn
+
+Statistical Analysis: independent t-test
+
+# Key Steps
+Data Exploration & Cleaning
+
+Grouped data by test group and ad exposure to compute conversion rates.
+
+Conducted summary statistics and identified key patterns in the dataset.
+
+# Statistical Analysis
+
+Performed independent t-test to compare conversion rates between Ad and PSA groups.
+
+# Visualization
+
+Created 4 visualizations: bar chart, histogram, countplot, and heatmap.
+
+Applied colorblind-friendly palettes to improve accessibility and clarity.
