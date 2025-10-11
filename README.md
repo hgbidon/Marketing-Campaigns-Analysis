@@ -1,3 +1,4 @@
+## Marketing Campaign Performance Analysis
 # Overview
 This project analyzes a [marketing A/B testing dataset from Kaggle](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing) to compare conversion rates between Ad and PSA groups. Using Python and Jupyter Notebook, I performed statistical analysis, created visualizations, and uncovered actionable insights to understand the impact of ad exposure on user behavior.
 
