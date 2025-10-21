@@ -17,12 +17,12 @@ Using **Python** in a **Jupyter Notebook**, I performed data cleaning, statistic
 
 ## 🛠️ Tech Stack  
 
-| Category             | Tools & Libraries                          |
-|----------------------|-------------------------------------------|
-| 💻 Programming       | `Python`                                  |
-| 📊 Data Analysis     | `pandas`, `numpy`, `scipy`                |
-| 🎨 Visualization      | `matplotlib`, `seaborn`                   |
-| 📈 Statistical Testing | Independent t-test                        |
+| Category              | Tools & Libraries                          |
+|-----------------------|-------------------------------------------|
+| 💻 Programming        | `Python`                                  |
+| 📊 Data Analysis      | `pandas`, `numpy`, `scipy`                |
+| 🎨 Visualization       | `matplotlib`, `seaborn`                   |
+| 📈 Statistical Testing| Independent t-test                         |
 
 ---
 
@@ -44,18 +44,22 @@ Using **Python** in a **Jupyter Notebook**, I performed data cleaning, statistic
 
 ## 📸 Preview of Visualizations  
 
-Here are some thumbnail-style versions of key charts:  
+Here are some thumbnail-style versions of key charts:
 
-![Conversion Rates by Ad Count and Group – Thumbnail](https://raw.githubusercontent.com/hgbidon/Marketing-Campaigns-Analysis/main/conversion_rates_by_ad_count_and_group.png){:width="300px"}  
+![Conversion Rates by Ad Count and Group – Thumbnail](https://raw.githubusercontent.com/hgbidon/Marketing-Campaigns-Analysis/main/conversion_rates_by_ad_count_and_group.png)  
+
 *Conversion rates by ad count and test group.*
 
-![Conversion Rates by Test Group – Thumbnail](https://raw.githubusercontent.com/hgbidon/Marketing-Campaigns-Analysis/main/conversion_rates_by_test_group.png){:width="300px"}  
+![Conversion Rates by Test Group – Thumbnail](https://raw.githubusercontent.com/hgbidon/Marketing-Campaigns-Analysis/main/conversion_rates_by_test_group.png)  
+
 *Conversion rates comparison between Ad and PSA groups.*
 
-![Heatmap: Most Ads per Hour by Day – Thumbnail](https://raw.githubusercontent.com/hgbidon/Marketing-Campaigns-Analysis/main/heatmap_most_ads_per_hour_by_day.png){:width="300px"}  
+![Heatmap: Most Ads per Hour by Day – Thumbnail](https://raw.githubusercontent.com/hgbidon/Marketing-Campaigns-Analysis/main/heatmap_most_ads_per_hour_by_day.png)  
+
 *Heatmap showing peak ad exposure by hour and day.*
 
-![Most Ads per Hour by Test Group – Thumbnail](https://raw.githubusercontent.com/hgbidon/Marketing-Campaigns-Analysis/main/most_ads_per_hour_by_test_group.png){:width="300px"}  
+![Most Ads per Hour by Test Group – Thumbnail](https://raw.githubusercontent.com/hgbidon/Marketing-Campaigns-Analysis/main/most_ads_per_hour_by_test_group.png)  
+
 *Chart showing how ad exposure varies by hour across test groups.*
 
 > _Full interactive visuals and notebook cells are available in the `analysis_notebook.ipynb` in this repo._
