@@ -62,7 +62,7 @@ Here are some thumbnail-style versions of key charts:
 
 *Chart showing how ad exposure varies by hour across test groups.*
 
-> _Full interactive visuals and notebook cells are available in the `analysis_notebook.ipynb` in this repo._
+> _Full interactive visuals and notebook cells are available in the `marketing_AB.ipynb` in this repo._
 
 ---
 
